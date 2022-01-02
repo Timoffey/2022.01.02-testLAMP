@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Xml>
+	<post>
+		<id>5</id>
+		<title>Fusce congue condimentum</title>
+		<description>Fusce vestibulum gravida fringilla. Sed eu nibh ut orci pellentesque dignissim. Nulla imperdiet ligula non augue ornare ac scelerisque arcu ullamcorper. Proin ullamcorper dolor eget lectus gravida vel interdum tortor sollicitudin. Nam sed dolor elit. Cras cursus cursus neque at elementum. Vestibulum ut vulputate metus. Nulla orci nisi, faucibus vel feugiat non, lobortis sed eros. Vivamus suscipit mattis metus ac rhoncus. Mauris ut purus id enim sollicitudin venenatis.</description>
+		<date>21/01/2013 16:12:56</date>
+	</post>
+	<post>
+		<id>6</id>
+		<title>Quisque at elit sem</title>
+		<description>Pellentesque massa nibh, rutrum vel feugiat sit amet, gravida vel sapien. Donec suscipit facilisis urna, eu consectetur purus dignissim eget. Nam at dolor velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur et augue sapien. Aenean eu elit risus, sed venenatis purus. Nam est ipsum, pharetra ut malesuada eget, convallis accumsan dolor. Sed ut nisi justo. Suspendisse potenti. Phasellus ut arcu quam. In nec leo id eros semper sodales vitae vel mi.</description>
+		<date>28/01/2013 19:32:16</date>
+	</post>
+	<post>
+		<id>7</id>
+		<title>Mauris iaculis sagittis risus</title>
+		<description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse non nisl risus, sed interdum sapien. Nulla quis orci ut eros gravida tincidunt. Pellentesque ac luctus est. Donec iaculis augue non nisi aliquam vitae iaculis nisl lacinia. Suspendisse ultrices cursus elit, quis fermentum nibh lacinia ut. Cras malesuada, dui eget ullamcorper auctor, magna purus convallis magna, vel tempor orci lacus non lectus. Morbi pulvinar, nibh non lacinia imperdiet, elit magna facilisis enim, at molestie nibh dolor sed augue. Pellentesque tristique interdum viverra.</description>
+		<date>04/02/2013 10:14:12</date>
+	</post>
+	<post>
+		<id>8</id>
+		<title>Nullam eget diam auctor</title>
+		<description>Praesent id risus eu dolor congue hendrerit. Vestibulum volutpat, ante in porttitor luctus, ligula leo feugiat purus, eu fringilla ipsum purus eget urna. Quisque et leo nec justo luctus auctor at auctor orci. Etiam rutrum sapien nulla, eu ultrices nisl. Integer nunc mi, auctor eget mollis molestie, sodales sit amet erat. </description>
+		<date>04/02/2013 12:21:33</date>
+	</post>
+</Xml>

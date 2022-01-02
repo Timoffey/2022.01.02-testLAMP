@@ -1,0 +1,71 @@
+body {
+	margin: 0
+}
+
+.buttons {
+	float: left;
+	padding: 10px;
+	border-right: 1px solid silver;
+}
+
+.buttons span {
+	width: 120px;
+	line-height: 30px;
+	text-align: center;
+	float: left;
+	clear: both;
+	border: 1px solid silver;
+	background: buttonface;
+	color: buttontext;
+	cursor: pointer;
+}
+
+.buttons span + span {
+	margin-top: 10px;
+}
+
+.buttons span:hover {
+	border-color: blue;
+	background: highlight;
+	color: white;
+}
+
+.news {
+	float: left;
+	padding: 10px;
+}
+
+.post {
+	width: 500px;
+	float: left;
+	clear: both;
+	border: 1px solid slategray;
+	background: snow;
+}
+
+.post + .post {
+	margin-top: 10px;
+}
+
+.post .image {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: whitesmoke;
+}
+
+.post .title {
+	width: 390px;
+	line-height: 30px;
+	float: right;
+	background: slategray;
+	padding-left: 10px;
+	color: white;
+}
+
+.post .description {
+	width: 380px;
+	min-height: 50px;
+	float: right;
+	padding: 10px;
+}
